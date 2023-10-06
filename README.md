@@ -67,3 +67,4 @@ Or use the keyboard shortcut `CTRL+D`.
 ## Authors
 
 - Basma Shaban Ali <shaabanbasma@gmail.com>
+- Loay Awadalla <loay_awadalla@gmail.com>
