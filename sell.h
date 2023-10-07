@@ -1,7 +1,3 @@
-/*
- * Header file for the shell program.
- */
-
 #ifndef _SHELLH_
 #define _SHELLH_
 
@@ -78,8 +74,7 @@ ShellVar **get_special_shell_variables(void);
 ShellVar **get_all_shell_variables(void);
 
 /* from realloc.c */
-void *realloc_memory(void *ptr, unsigned int old_size,
-                     unsigned int new_size);
+void *realloc_memory(void *ptr, unsigned int old_size, unsigned int new_size);
 
 /* from split_str.c */
 char *split_string(char *str, char *delim);
